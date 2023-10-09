@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 env:
-  FRONTEND_WEBAPP_DEV: adnan-fe-dev
+  FRONTEND_WEBAPP_DEV: adnanb-fe-dev
 
 jobs:
   build:
